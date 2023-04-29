@@ -1,0 +1,12 @@
+{
+  "name": "emprende-full-stack",
+  "version": "1.0.0",
+  "description": "Curso de martin gesualdo en youtube ",
+  "main": "index.js",
+  "author": "armando colina",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
